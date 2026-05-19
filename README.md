@@ -1,2 +1,1 @@
-# base-ecosystem-guide
-Guide for Base ecosystem
+# Base Ecosystem Guide
